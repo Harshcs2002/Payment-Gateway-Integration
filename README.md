@@ -1,6 +1,10 @@
-# Payment-Gateway-Integration
+# TSF03-payment--gateway-integration
 
-This is a simple project that demonstrates payment gateway integration into a HTML/CSS/JS based webpage. (only test mode enabled)
+THE SPARKS FOUNDATION
+
+Hi I made this website to integrate payment gateway for The Sparks Foundation Task as Web and Mobile Developer Intern.
+
+It demonstrates payment gateway integration into a HTML/CSS/JS based webpage. (only test mode enabled)
 
 - The webpage is designed using HTML,CSS & JS. The payment integration is done using razorpay
 
